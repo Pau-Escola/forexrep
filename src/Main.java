@@ -10,7 +10,7 @@ public class Main {
             else if (i % 5 == 0) retval += "Buzz";
             else retval += i;
             System.out.println(retval);
-
+            System.out.println("panda");
 
         }
 
